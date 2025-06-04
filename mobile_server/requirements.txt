@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+psycopg2-binary
+Flask-Marshmallow
+marshmallow-sqlalchemy
+requests
+beautifulsoup4
+selenium
+pandas
+apscheduler
